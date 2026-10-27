@@ -1,5 +1,3 @@
-cd ~/Documents/SECUNDA
-cat << 'EOF' > .gitignore
 # Python
 __pycache__/
 *.py[cod]
